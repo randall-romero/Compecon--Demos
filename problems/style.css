@@ -1,0 +1,16 @@
+/* Style for the document header */
+.title_header {
+  background-color: #1458b1;   /* dark blue */
+  color: white;                /* white text */
+  font-size: 24pt;
+  font-weight: 600;
+  padding: 12px 18px;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+/* Style for highlighting student names */
+.student {
+  font-size: 15pt;
+  font-weight: bold;
+}
