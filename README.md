@@ -5,6 +5,8 @@ Most of the files in this repo were previously in the CompEcon repo. I moved the
 
 There are three main folders in this repo, all of them containing examples of economics problems solved with CompEcon:
 
-- /demos : py versions of the demos contained in the (Matlab) original toolbox by Miranda and Fackler.
-- /notebooks : mostly the same as in /demos, but in Jupyter Notebook format, allowing to keep narrative, code and results in a single file (very convenient for teaching purposes)
-- /textbook : short scripts to replicate examples from Miranda and Fackler's textbook.
+- **demos** : py versions of the demos contained in the (Matlab) original toolbox by Miranda and Fackler.
+- **notebooks** : mostly the same as in *demos*, but in Jupyter Notebook format, allowing to keep narrative, code and results in a single file (very convenient for teaching purposes)
+- **textbook** : short scripts to replicate examples from Miranda and Fackler's textbook.
+
+One aditional folder, **problems**, contains (you guest) problems for students to solve. The problems are presented in the form of *incomplete* notebooks that the student has to complete with Python code.

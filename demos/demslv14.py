@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # ### DemSlv14
-# # Spacial Equilibrium Model
+# # Spatial Equilibrium Model
 # 
 # * See textbook page 56 for description
 
