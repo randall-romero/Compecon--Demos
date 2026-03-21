@@ -11,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from compecon.demos import demo
 
-plt.style.use('seaborn')
+plt.style.use('seaborn-v0_8')
 
 
 # In[2]:

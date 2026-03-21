@@ -15,7 +15,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 
 np.set_printoptions(precision=4,suppress=True)
-plt.style.use('seaborn')
+plt.style.use('seaborn-v0_8')
 
 
 
